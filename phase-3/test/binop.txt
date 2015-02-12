@@ -1,0 +1,17 @@
+class Program
+{
+    int x,y;
+    int sub(int a, int b){
+        boolean is_present;
+        int c;
+        c = 1+2;
+        c = 5-1;
+        c = 3*2;
+        c = 8/2;
+        c = 7%4;
+        is_present  = (1==2);
+        is_present  = (1!=2);
+        return 0;
+    }
+        
+}

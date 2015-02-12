@@ -1,0 +1,20 @@
+class Program
+{
+    int x,y;
+    int arr[4];
+    int sub(int a, int b){
+        boolean is_present;
+        int c;
+        is_present = true;
+    }
+    int add(int a){
+        boolean flag;
+        flag = true;
+        sub(2,3);
+    }
+
+    int sub(int a, int b){
+        add(1);
+    }
+        
+}

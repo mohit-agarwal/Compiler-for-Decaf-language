@@ -1,0 +1,21 @@
+class Program
+{
+    int x,y;
+    int arr[4];
+    int sub(int a, int b){
+        int c;
+        if(c > 1){
+            int p,q;
+        }
+        if(c <= 1){
+            int p,q;
+        }
+        if(c <= 1){
+            int p,q;
+        }
+        if(c < 1){
+            int p,q;
+        }
+        return 0;
+    }
+}
